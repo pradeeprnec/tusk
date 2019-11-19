@@ -5,3 +5,5 @@ Microservices
 SpringBoot
 RestAPI
 Soap UI
+PostgreSQL
+Wicket Framework
