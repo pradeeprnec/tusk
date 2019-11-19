@@ -7,3 +7,6 @@ RestAPI
 Soap UI
 PostgreSQL
 Wicket Framework
+Oracle
+Angular
+Quartz Schedulars
